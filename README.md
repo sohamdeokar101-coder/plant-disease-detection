@@ -145,3 +145,4 @@ The optimized model weights will be saved to `models/plant_disease_model.pth`.
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 # plant-disease-detection
+# plant-disease-detection
